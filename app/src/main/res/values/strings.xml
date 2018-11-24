@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Kuis</string>
+    <string name="Soal">Apakah yang dimaksud dengan Android Studio</string>
+    <string name="per">Pertanyaan :</string>
+
+    <!--Pertanyaan-->
+    <string name="soal1">1) jari kaki depan kucing ada berapa ?</string>
+    <string name="soal2">2) Makanan Paling Enak ke2 adalah</string>
+    <string name="soal3">3) Siapa pencipta Google?</string>
+    <string name="soal4">4) Siapa pencipta facebook</string>
+    <string name="soal5">5) Dimana Jokowi lahir?</string>
+    <string name="soal6">6) pantai Paling Indah</string>
+    <string name="soal7">7) Siapa yang paling tamvan</string>
+    <string name="soal8">8) Hewan yang Bisa terbang</string>
+    <string name="soal9">9) Siapa Nama presiden ke2 Indonesia</string>
+    <string name="soal10">10) Siapa pencipta Java</string>
+    <string name="soal11">11) Dimana Manusia Hidup?</string>
+    <string name="soal12">12) Kaapan soekarno lahir?</string>
+    <string name="soal13">13) Kapan terjadinya perang duia ke2?</string>
+    <string name="soal14">14) Dimanakah letak MQ?</string>
+    <string name="soal15">15) Siapa Pencipta Windows?</string>
+    <string name="soal16">16) Fungsi android studio?</string>
+    <string name="soal17">17) Mengapa Orang Menciptakan aplikasi?</string>
+    <string name="soal18">18) Siapa programer pertama di dunia?</string>
+    <string name="soal19">19) Siapa Presiden tahun 2019?</string>
+    <string name="soal20">20) Makanan Kesukaan ku apa?</string>
+
+
+
+
+</resources>
